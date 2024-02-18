@@ -83,6 +83,7 @@ pip install -r requirements.txt
 **Run the App**:
 ```
 cd website
+npm start
 ```
 
 **Run the server**:
