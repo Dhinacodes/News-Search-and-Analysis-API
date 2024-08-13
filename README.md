@@ -108,5 +108,6 @@ language: Language of the summary ("en" for English, "hi" for Hindi).
 
 **Contributors**
 1. [Taneti Sanjay](https://github.com/TanetiSanjay)
-2. [Dhinakar S P](https://github.com/Dhinacodes)
-3. [Dheeraj Narne Bhalaram](https://github.com/dheerajnarne)
+2. [Narne Dheeraj Balaram](https://github.com/dheerajnarne)
+3. [Dhinakar S P](https://github.com/Dhinacodes)
+
